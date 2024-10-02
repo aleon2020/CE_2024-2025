@@ -9,3 +9,7 @@ IMPORTANTE: SI OBSERVAS QUE HAY ALGÚN ERROR O ALGO QUE FALTE EN ALGÚN ARCHIVO 
 ## 1. Tests
 
 Fichero ['Preguntas Tests CE'](https://github.com/aleon2020/CE_2024-2025/blob/main/Preguntas%20Tests%20CE.pdf): Dentro de este fichero se encuentran todos y cada uno de los tests realizados por cada tema/módulo que componen este curso.
+
+## 2. Referencias
+
+[ACCESO AL CURSO DE COMERCIO ELECTRÓNICO](https://skillshop.exceedlms.com/student/collection/787525-ecommerce?fbclid=PAZXh0bgNhZW0CMTEAAaYREgOTera-59xTuSAqpM_gjGPIeil1PP471GZme8VkjiuYZvOjC7tsNkk_aem_oFNcUG1PprW0G9CYBCuiXA)
